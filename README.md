@@ -1,6 +1,5 @@
-# Hi there! I'm [Jiho Yang] 👋
+# Hi there! I'm Jiho Yang 👋
 
-I am a passionate researcher in theoretical physics, specializing in gravitational waves, black hole dynamics, and computational modeling. My work spans the intersection of physics, mathematics, and data science, leveraging tools like Python, Torch, and Mathematica to explore the mysteries of the universe. When I'm not coding or crunching numbers, you can find me reading a good book or enjoying some rock music!
 
 ![Profile Views](https://github.com/Productitivity)
 
