@@ -1,7 +1,10 @@
 # Hi there! I'm Jiho Yang 👋
 
 
-![Profile Views](https://github.com/Productitivity)
+
+![AgujeroNegroGIF](https://github.com/user-attachments/assets/83e75175-1bd2-4dc7-9e94-c96ea5867dcb)
+
+[Profile Views](https://github.com/Productitivity)
 
 ---
 
@@ -15,26 +18,25 @@
 
 - **Fields**: Theoretical Physics, Cosmology,  Gravitational Waves, Black Hole
 - **Technologies**: Python, PyTorch, Mathematica, Data Science, Machine Learning, Deep Learning, Numerical Simulations
-- **Tools**: Git, Jupyter Notebooks, LaTeX, Mathematica
+- **Tools**: Git, Jupyter Notebooks, LaTeX, Mathematica, conda, 
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. [ACE: Accelerometer-Based Computational Exercise Platform](https://github.com/Productitivity/ACE)
+### 1. 💪[ACE: Accelerometer-Based Computational Exercise Platform](https://github.com/Productitivity/ACE)
 A novel platform integrating machine learning and sensor data to monitor and analyze physical exercises. Built using Python, PyTorch, and data science techniques.
 
-`![ACE]()`
+<!--![ACE]()-->
 
-### 2. [Black Hole Ray-Tracing](https://github.com/Productitivity/BlackHoleRayTracing)
+### 2. 🕯️[Black Hole Ray-Tracing](https://github.com/Productitivity/BlackHoleRayTracing)
 A simulation project for visualizing black hole dynamics and ray-tracing in curved spacetime. This project utilizes Mathematica for theoretical modeling and Python for visualization.
-`
-![Black Hole Ray-Tracing]()
-`
-### 3. [Muon Detector](https://github.com/Productitivity/MuonDetector)
+
+<!--![Black Hole Ray-Tracing]()-->
+### 3. 📟[Muon Detector](https://github.com/Productitivity/MuonDetector)
 Developed a simulation framework for detecting muons in high-energy physics experiments. The project combines Python, Monte Carlo simulations, and data analysis techniques to optimize detector designs.
 
-`![Muon Detector]()`
+<!--![Muon Detector]()-->
 
 ---
 
