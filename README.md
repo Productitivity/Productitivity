@@ -65,7 +65,7 @@ I'm always open to collaborating on exciting projects related to physics, data s
 
 📫 **Reach me at**: [jihohyang@gmail.com](jihohyang@gmail.com)
 
-[![Instagram](https://www.instagram.com/physiker__/)
+[![Instagram](https://www.instagram.com/physiker__/)]
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-brightgreen)](https://www.researchgate.net/profile/yourprofile)
