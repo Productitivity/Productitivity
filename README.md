@@ -24,7 +24,7 @@
 
 ## 🚀 Featured Projects
 
-### 1. 💪[ATHLETEC]((https://athletec.co.kr/))
+### 1. 💪[ATHLETEC](https://athletec.co.kr/)
 As a early participating member of ATHLETEC, I specialize in developing advanced artificial intelligence systems and driving strategic initiatives to align technology with our mission. With a strong foundation in AI development, I design intelligent solutions that optimize athletic performance while ensuring safety and injury prevention. My expertise lies in leveraging machine learning, data analysis, *Physics* and innovation to craft personalized training programs that meet the unique needs of athletes. Beyond technical proficiency, I contribute to strategic planning by identifying opportunities for growth and aligning AI advancements with long-term business objectives. My role bridges cutting-edge technology and visionary strategy to shape ATHLETEC’s future and redefine what’s possible in sports performance.
 
 <!--![ATHLETEC]()-->
