@@ -24,13 +24,17 @@
 
 ## 🚀 Featured Projects
 
-### 1. 💪[ATHLETEC](https://athletec.co.kr/)
+### 1. [![logo](https://github.com/user-attachments/assets/c0076a60-612b-42fd-a9ba-60c94598aab8)](https://athletec.co.kr/)
+
+
 As a early participating member of ATHLETEC, I specialize in developing advanced artificial intelligence systems and driving strategic initiatives to align technology with our mission. With a strong foundation in AI development, I design intelligent solutions that optimize athletic performance while ensuring safety and injury prevention. My expertise lies in leveraging machine learning, data analysis, *Physics* and innovation to craft personalized training programs that meet the unique needs of athletes. Beyond technical proficiency, I contribute to strategic planning by identifying opportunities for growth and aligning AI advancements with long-term business objectives. My role bridges cutting-edge technology and visionary strategy to shape ATHLETEC’s future and redefine what’s possible in sports performance.
 
 <!--![ATHLETEC]()-->
 <!--!
 ### 2. 🕯️[Black Hole Ray-Tracing](https://github.com/Productitivity/BlackHoleRayTracing)
-A simulation project for visualizing black hole dynamics and ray-tracing in curved spacetime. This project utilizes Mathematica for theoretical modeling and Python for visualization.
+A simulation project for visualizing black hole dynamics and ray-tracing in curved ![logo](https://github.com/user-attachments/assets/a4d41829-5393-4d50-9812-e92507ef801d)
+![logo](https://github.com/user-attachments/assets/bec71000-11b8-4ceb-945f-7511335b357e)
+spacetime. This project utilizes Mathematica for theoretical modeling and Python for visualization.
 -->
 <!--![Black Hole Ray-Tracing]()-->
 <!--### 3. 
