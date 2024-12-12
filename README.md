@@ -10,31 +10,30 @@
 
 ## 🧑‍🔬 About Me
 
-- 🎓 I’m currently Studying in Theoretical Physics with a focus on computational methods and simulations.
+- 🎓 I’m currently Studying in Theoretical Physics with a focus on Cosmology.
 - 🌱 I’m majoring Physics, AI, Physics eduation
 - 📚 I love discussing new theories, ideas, and breakthroughs in physics and Data Science.
 
 ## 🔬 Research & Interests
 
-- **Fields**: Theoretical Physics, Cosmology,  Gravitational Waves, Black Hole
-- **Technologies**: Python, PyTorch, Mathematica, Data Science, Machine Learning, Deep Learning, Numerical Simulations
-- **Tools**: Git, Jupyter Notebooks, LaTeX, Mathematica, conda, 
+- **Fields**: Theoretical Physics, Cosmology,  Gravitational Waves, Black Hole, Data Science
+- **Technologies**: Python, PyTorch, Machine Learning, Deep Learning
+- **Tools**: Python, C++, Mathematica, GO Lang, Linux
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. 💪[ACE: Accelerometer-Based Computational Exercise Platform](https://github.com/Productitivity/ACE)
-A novel platform integrating machine learning and sensor data to monitor and analyze physical exercises. Built using Python, PyTorch, and data science techniques.
+### 1. 💪[ATHLETEC]((https://athletec.co.kr/))
+As a early participating member of ATHLETEC, I specialize in developing advanced artificial intelligence systems and driving strategic initiatives to align technology with our mission. With a strong foundation in AI development, I design intelligent solutions that optimize athletic performance while ensuring safety and injury prevention. My expertise lies in leveraging machine learning, data analysis, *Physics* and innovation to craft personalized training programs that meet the unique needs of athletes. Beyond technical proficiency, I contribute to strategic planning by identifying opportunities for growth and aligning AI advancements with long-term business objectives. My role bridges cutting-edge technology and visionary strategy to shape ATHLETEC’s future and redefine what’s possible in sports performance.
 
-<!--![ACE]()-->
-
+<!--![ATHLETEC]()-->
+<!--!
 ### 2. 🕯️[Black Hole Ray-Tracing](https://github.com/Productitivity/BlackHoleRayTracing)
 A simulation project for visualizing black hole dynamics and ray-tracing in curved spacetime. This project utilizes Mathematica for theoretical modeling and Python for visualization.
-
+-->
 <!--![Black Hole Ray-Tracing]()-->
-### 3. 📟[Muon Detector](https://github.com/Productitivity/MuonDetector)
-Developed a simulation framework for detecting muons in high-energy physics experiments. The project combines Python, Monte Carlo simulations, and data analysis techniques to optimize detector designs.
+<!--### 3. 
 
 <!--![Muon Detector]()-->
 
